@@ -4,7 +4,8 @@ import { Configuration, OpenAIApi } from "openai";
 
 
 function App() {
-  const apiKey='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'
+//   const apiKey='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'
+   const apiKey=`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`
   const configuration = new Configuration({
     organization: "org-dtEIdqc1TzWQY8UYA6a3Xep6",
     apiKey: apiKey,
